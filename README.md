@@ -14,7 +14,7 @@ User-friendly UI: Includes images, styled labels, and motivational messages.
 
 
 
-Tools Used:
+--> Tools Used:
 
 Python – Core programming language for the entire project
 
